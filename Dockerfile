@@ -17,6 +17,7 @@ php7-fpm \
 php7-pdo \
 php7-curl \
 php7-pdo_mysql \
+php7-pdo_sqlsrv  \
 php7-mcrypt \
 php7-mbstring \
 php7-json \
